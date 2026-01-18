@@ -1,1 +1,2 @@
-console.log('Hello, World!');
+let name = 'Peter';
+console.log(`Hello, ${name}!`);
